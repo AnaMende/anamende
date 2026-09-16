@@ -9,7 +9,9 @@
  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
  ## Meu Roadmap (próximos 6 meses)
- - [ ] Aprimorar meui conhecimento em IA
+ - [ ] Aprimorar meu conhecimento em IA
+ - [ ] Melhorar inglês
+ - [ ] Especializações técnicas em tecnologia 
 
 ## Projetos em Destaque
 |Projeto|Descrição|Tecnologia Principal|
